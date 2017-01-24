@@ -1,0 +1,59 @@
+#fancy-I {
+  color: white;
+  border: 2px solid white;
+  padding: 3px;
+  padding-left: 6px;
+  margin-left: 5px;
+}
+
+.navbar {
+  background: grey;
+  padding: 0.2px;
+}
+
+body {
+  background:  #e6e6e6
+}
+a {
+  text-decoration: none;
+  color: black;
+   }
+.smalltext {
+  color: grey;
+  font-size: 12px;
+  text-decoration: none;
+  padding-top:1px;
+}
+
+.smalltext a {
+  color: grey;
+}
+
+#login {
+  padding-left: 600px
+}
+
+#line {
+  border: .5px solid grey
+}
+
+.Webname{
+  padding-right: 5px;
+  padding-left: 5px
+}
+
+#white-line{
+  color: white
+}
+
+ol{
+  color: grey
+}
+.bottom{
+  padding-left:250px
+}
+
+#searchbar{
+  padding-left: 400px;
+
+}
