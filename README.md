@@ -20,7 +20,8 @@ Here is what i've learned in each language through this project:
 #CSS
 * Coloring text.
 * Coloring backgrounds.
-* How to properly call ids(`#`).
+* How to properly call id(`#`).
+* How to properly call class(`.`)
 * How to manipulate `padding`,`margin`,and `border`.
 * How to change text size.
 
