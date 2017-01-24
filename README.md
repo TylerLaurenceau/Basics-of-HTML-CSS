@@ -1,5 +1,6 @@
 ##First Steps into HTML & CSS
 ![first steps](http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/health_tools/baby_milestones_1_slideshow/getty_rm_photo_of_baby_walking.jpg)
+
 *Super excited to start my journey into front end development.*
 
 
